@@ -3,10 +3,11 @@ From zero knowledge about python for devops
 
 ##Create project scafold
 * Create development environment that is cloud-based:
-    *Github Codespaces
-    *Colab Notebook
-    *AWS Cloudshell
-    *AWS Cloud9
+  ### Colab Notebook
+  * This is an example of how to use [colab](https://colab.research.google.com/github/ManukaDalpe/python-for-devops-2023/blob/main/getting_started_python.ipynb#scrollTo=oPYmBabRYD1i)
+  ### Github Codespaces
+  ### AWS Cloudshell
+  ### AWS Cloud9
 
 ##Command-Line Tools'
 
