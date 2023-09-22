@@ -18,7 +18,8 @@ From zero knowledge about python for devops
   *Microservices
   
   1. Create a virtualenv: `virtualenv ~/.venv`
-  2. Edit my `~.bashrc`
+  2. Edit my `~.bashrc` `source ~/.venv/bin/activate`
+  3. clone project then run `make call`
 
 
   ### AWS Cloudshell
